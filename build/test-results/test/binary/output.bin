@@ -1,5 +1,2 @@
-Iname = appConfig object = hello.core.AppConfig$$SpringCGLIB$$0@560cbf1a
-Lname = memberService object = hello.core.member.MemberServiceImpl@758f4f03
-Tname = memberRepository object = hello.core.member.MemoryMemberRepository@182f1e9a
-Iname = orderService object = hello.core.order.OrderServiceImpl@6928f576
-Pname = discountPolicy object = hello.core.discount.RateDiscountPolicy@660e9100
+=memberService = hello.core.member.MemberServiceImpl@a50b09c
+FmemberService.getClass() = class hello.core.member.MemberServiceImpl
